@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples", "Unity.AI.Navigation.Samples.csproj", "{2D237A4B-EBC3-90AB-FAB3-05A43AE9939C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{A9C6A3E7-F7E6-C880-8FFA-B82E571A36B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.AI.Navigation.Samples.Initialization.Editor", "Unity.AI.Navigation.Samples.Initialization.Editor.csproj", "{7D339C6B-3D0E-086F-D328-AA8C9B3FB2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccaSoftware.Crosshairs.Editor", "OccaSoftware.Crosshairs.Editor.csproj", "{7BBCE068-F1C3-63F8-BD0A-B1CB8C8F9A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D237A4B-EBC3-90AB-FAB3-05A43AE9939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D237A4B-EBC3-90AB-FAB3-05A43AE9939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D237A4B-EBC3-90AB-FAB3-05A43AE9939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D237A4B-EBC3-90AB-FAB3-05A43AE9939C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C6A3E7-F7E6-C880-8FFA-B82E571A36B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C6A3E7-F7E6-C880-8FFA-B82E571A36B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C6A3E7-F7E6-C880-8FFA-B82E571A36B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C6A3E7-F7E6-C880-8FFA-B82E571A36B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D339C6B-3D0E-086F-D328-AA8C9B3FB2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D339C6B-3D0E-086F-D328-AA8C9B3FB2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D339C6B-3D0E-086F-D328-AA8C9B3FB2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D339C6B-3D0E-086F-D328-AA8C9B3FB2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BBCE068-F1C3-63F8-BD0A-B1CB8C8F9A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBCE068-F1C3-63F8-BD0A-B1CB8C8F9A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBCE068-F1C3-63F8-BD0A-B1CB8C8F9A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBCE068-F1C3-63F8-BD0A-B1CB8C8F9A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
